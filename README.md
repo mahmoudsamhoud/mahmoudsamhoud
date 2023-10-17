@@ -1,13 +1,23 @@
-<h1 align="center">Hi there 👋, I'm Sam</h1>
-<h3 align="center">I am a highly driven data analyst with a bunch of skills in the field of data.</h3>
 
-- 📫 How to reach me **m.samhoud@hotmail.com**
+<h1 align="center">Hi there 👋, I'm Sam!</h1>
+<h3 align="center">A highly driven data analyst with a bunch of skills in the field of data who enjoys learning new stuff. </h3>
 
+## Programming Languages and Tools: 
+ - Python and its libraries associated with data (pandas, numpy, matplotlib, seaborn, requests, beautifulsoup).
+ - SQL and MySql
+ - MS Access
+ - MS Excel 
+ - Power BI
+ - C language
+ - MATLAB
+   
+<br> 
+📧 How to reach me: <a> m.samhoud@hotmail.com </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/sam0ne_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sam0ne_" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mahmoudsamhoud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoudsamhoud/" height="30" width="40" /></a>
+<a href="https://kaggle.com/msamhoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="msamhoud" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mahmoudsamhoud0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahmoudsamhoud0" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
-
-
+  
