@@ -9,7 +9,6 @@
  - MS Excel 
  - Power BI
  - C language
- - CPP
  - MATLAB
    
 <br> 
