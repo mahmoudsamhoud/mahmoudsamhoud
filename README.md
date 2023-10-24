@@ -3,6 +3,8 @@
 <h3 align="center">A highly driven data analyst with a bunch of skills in the field of data who enjoys learning new stuff. </h3>
 
 ## Programming Languages and Tools: 
+
+<img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/Python.png' width='80'> <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/pandas.png' width='90'> <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/NumPy.png' width='150'> <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/matplotlib.png' width='75'> <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/seaborn.png' width='90'>
  - Python and its libraries associated with data (pandas, numpy, matplotlib, seaborn, requests, beautifulsoup).
  - SQL and MySql
  - MS Access
