@@ -4,15 +4,8 @@
 
 ## Programming Languages and Tools: 
 
-<img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/Python.png' width='100'> <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/pandas.png' width='140' height='90'> <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/NumPy.png' width='200' height='90'> <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/matplotlib.png' width='100'> <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/seaborn.png' width='110'> <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/Requests_Python_Logo.png' width='100'> <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/Beautifulsoup.png' width='300' height='100'> <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/SQL.png' width='150'> <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/MySQL.png' width='180'> <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/MSAccess.png' width='140'> <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/MSExcel.png' width='130'> <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/MATLAB.png' style="object-fit: none; object-position: +64px 0; width: 200px; height: 150px">  <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/PowerBI.png' width='250'> <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/C.png' width='140'> 
- - Python and its libraries associated with data (pandas, numpy, matplotlib, seaborn, requests, beautifulsoup).
- - SQL and MySql
- - MS Access
- - MS Excel 
- - Power BI
- - C language
- - MATLAB
-   
+<img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/Python.png' width='50'> <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/pandas.png' width='70' height='45'> <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/NumPy.png' width='100' height='45'> <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/matplotlib.png' width='50'> <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/seaborn.png' width='55'> <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/Requests_Python_Logo.png' width='50'> <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/Beautifulsoup.png' width='150' height='50'> <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/SQL.png' width='90'> <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/MySQL.png' width='100'> <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/MSAccess.png' width='80'> <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/PowerBI.png' width='140'>  <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/MSExcel.png' width='70'> <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/MATLAB.png' width='100'>  <img src='https://github.com/mahmoudsamhoud/mahmoudsamhoud/blob/main/logos/C.png' width='70'> 
+  
 <br> 
 📧 How to reach me: <a> m.samhoud@hotmail.com </a>
 <h3 align="left">Connect with me:</h3>
