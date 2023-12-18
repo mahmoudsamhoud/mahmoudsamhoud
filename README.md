@@ -11,7 +11,6 @@ How to reach me: <br>
 📧<a> m.samhoud@hotmail.com </a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sam0ne_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sam0ne_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahmoudsamhoud/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoudsamhoud/" height="30" width="40" /></a>
 <a href="https://kaggle.com/msamhoud" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="msamhoud" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mahmoudsamhoud0" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mahmoudsamhoud0" height="30" width="40" /></a>
